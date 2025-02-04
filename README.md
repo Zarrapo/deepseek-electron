@@ -56,3 +56,7 @@ npm run build
 ## Licencia
 
 DeepSeek Desktop es un software de código abierto licenciado bajo la Licencia MIT.
+
+## Releases
+
+[DeepSeek.Desktop.Setup.3.0.0.exe)(https://github.com/Zarrapo/deepseek-electron/releases/download/v3.0.0/DeepSeek.Desktop.Setup.3.0.0.exe)
