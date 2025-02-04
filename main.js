@@ -13,6 +13,8 @@ npm install electron-builder --save-dev
 // Script de Empaquetado
 // npm run build
 
+// Codigo
+
 // Importar los módulos necesarios 
 import { app, BrowserWindow, shell, Menu } from 'electron';
 import { fileURLToPath } from 'url';
